@@ -49,6 +49,10 @@ Mapa interativo mostrando **concentração de entregas**:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Rosinacastro/Challenge2AluraStoreEcommerce
+2. Utilize essa URL
+   ```bash
+    https://colab.research.google.com/drive/13DdMnGr353KPX5Q47LvH2U0MWij2jJDC
+      
 
    
 ---
